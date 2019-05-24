@@ -22,7 +22,7 @@ glider-correction-pack
 
 
 ## Legacy
-This toolbox is based on the previous code developed at [SOCIB][socib] by Krissy Reeve and John T. Allen. 
+This toolbox is based on the previous code developed at SOCIB by Dr Krissy Reeve and Dr John T. Allen. 
 
 ## Copyright
 
