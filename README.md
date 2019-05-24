@@ -6,11 +6,11 @@ The plot_socib_rv_adcp is a set of python scripts and functions developed at SOC
 ## Prerequisites:
 The following libraries need to be added into salinity-correction-toolbox/ext/ directory:
 
-SOCIB Glider Toolbox v1.0.0 - https://github.com/socib/glider_toolbox
-GSW - https://github.com/TEOS-10/GSW-Matlab
-m_map - https://www.eoas.ubc.ca/~rich/map.html
-mexcdf - https://github.com/dcherian/tools/tree/master/netcdf/mexcdf/snctools
-seawater - http://www.cmar.csiro.au/datacentre/ext_docs/seawater.htm
+- SOCIB Glider Toolbox v1.0.0 - https://github.com/socib/glider_toolbox
+- GSW - https://github.com/TEOS-10/GSW-Matlab
+- m_map - https://www.eoas.ubc.ca/~rich/map.html
+- mexcdf - https://github.com/dcherian/tools/tree/master/netcdf/mexcdf/snctools
+- seawater - http://www.cmar.csiro.au/datacentre/ext_docs/seawater.htm
 
    
 ## The following features are already implemented in the toolbox:
