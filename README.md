@@ -21,11 +21,8 @@ glider-correction-pack
 ## The following features are planned or in development:
 
 
-Legacy
-------
-
-This toolbox is based on the previous code developed at [IMEDEA][imedea]
-and [SOCIB][socib] by Tomeu Garau. He is the true glider man.
+## Legacy
+This toolbox is based on the previous code developed at [SOCIB][socib] by Krissy Reeve and John T. Allen. 
 
 ## Copyright
 
